@@ -1,3 +1,5 @@
 # Lab2
 Study of Git VCS
-dfjkadf
+Created by:
+Gilut Andrey
+Changed by: Ivanov Anton
